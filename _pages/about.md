@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Maitreyee's academic websites"
+title: "Maitreyee's academic website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
