@@ -15,7 +15,7 @@ I am currently a postdoctoral modeling engineer at the National Laboratory of th
 **JOIN**
 ======
 
-My research group will draw upon tools such as optimization, control, numerical simulations, power electronics, PCB design, embedde systems, community engagement, and field deployment. I do not expect a given project to involve all the tools. I expect prospective students to have experience in at least one but not all of these tools, and a strong interest in energy systems research.
+My research group will draw upon tools such as optimization, control, numerical simulations, power electronics, PCB design, embedded systems, community engagement, and field deployment. I do not expect a given project to involve all the tools. I expect prospective students to have experience in at least one but not all of these tools, mathematical maturity, and a strong interest in energy systems research.
 
 - **PhD applicants Fall 2027** — I have an opening for a PhD position starting Fall 2027. Please send me an email at msmarathe@umass.edu with subject line PhD Applicant: &lt;Your Name&gt;.
 
