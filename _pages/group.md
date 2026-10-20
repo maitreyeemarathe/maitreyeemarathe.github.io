@@ -11,7 +11,7 @@ author_profile: false
   <img src="/images/maitreyee-umass-sign.jpeg" alt="Maitreyee Marathe" style="width:150px; height:150px; border-radius:50%; object-fit:cover; flex-shrink:0;">
   <div>
     <p style="margin:0 0 8px; font-weight:bold;">Maitreyee Marathe</p>
-    I’m an incoming Assistant Professor (starting Sep 2027) in the Department of Electrical and Computer Engineering at the University of Massachusetts Amherst. I am currently a postdoctoral modeling engineer at the National Laboratory of the Rockies. I was previously a Pathways Fellow and Lecturer at UMass Amherst (2025-26).
+    I’m an incoming Assistant Professor (starting Sep 2027) in the Department of Electrical and Computer Engineering at the University of Massachusetts Amherst where I will be leading the Holistic Approaches to Power and ENergy (HAPPEN) group. If you are interested in joining, please see more <a href="https://maitreyeemarathe.github.io/">here</a>.
   </div>
 </div>
 
