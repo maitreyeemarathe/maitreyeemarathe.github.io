@@ -14,7 +14,7 @@ Browse some of our ongoing and past work here (more to come in new areas!)
 <p style="margin:0; font-weight:bold;">Affordable and resilient community energy systems</p>
 <div style="display:flex; flex-wrap:wrap; gap:24px; margin:12px 0 32px;">
   <div style="display:flex; flex-direction:row; align-items:center; gap:16px;">
-    <img src="/images/resilience-hubs.png" alt="Resilience hubs" style="width:120px; height:120px; border-radius:50%; object-fit:cover; flex-shrink:0;">
+    <img src="/images/resilience-hubs.png" alt="Resilience hubs" style="width:120px; height:120px; border-radius:50%; object-fit:contain; flex-shrink:0;">
     <div style="text-align:left;">
       <p style="margin:0; font-weight:bold;">Energy Resilience Hubs</p>
       <p style="margin:4px 0 0; font-size:0.9em;"> This project addresses rising power outages, growing energy insecurity, and heat‑related risks that disproportionately threaten seniors and people dependent on in‑home medical devices by evaluating the potential of community energy resilience hubs. We will develop resilience hub sizing and facility location models informed by community preferences.</p>
@@ -24,7 +24,7 @@ Browse some of our ongoing and past work here (more to come in new areas!)
 </div>
 <div style="display:flex; flex-wrap:wrap; gap:24px; margin:12px 0 32px;">
   <div style="display:flex; flex-direction:row; align-items:center; gap:16px;">
-    <img src="/images/ev-charging.png" alt="EV charging" style="width:120px; height:120px; border-radius:50%; object-fit:cover; flex-shrink:0;">
+    <img src="/images/ev-charging.png" alt="EV charging" style="width:120px; height:120px; border-radius:50%; object-fit:contain; flex-shrink:0;">
     <div style="text-align:left;">
       <p style="margin:0; font-weight:bold;">Workplace EV charging</p>
       <p style="margin:4px 0 0; font-size:0.9em;"> C. Jin, A. Shub, and M. Marathe, ``Affordable workplace charging: Optimizing charger investments and hidden costs," accepted to 2026 IEEE North American Power Symposium, Houghton, Michigan, 2026</p>
@@ -35,7 +35,7 @@ Browse some of our ongoing and past work here (more to come in new areas!)
 <p style="margin:0; font-weight:bold;">Energy management for low-income and prepaid households</p>
 <div style="display:flex; flex-wrap:wrap; gap:24px; margin:12px 0 32px;">
   <div style="display:flex; flex-direction:row; align-items:center; gap:16px;">
-    <img src="/images/thresholds.svg" alt="Energy management for prepaid electricity customers" style="width:120px; height:120px; border-radius:50%; object-fit:cover; flex-shrink:0;">
+    <img src="/images/thresholds.svg" alt="Energy management for prepaid electricity customers" style="width:120px; height:120px; border-radius:50%; object-fit:contain; flex-shrink:0;">
     <div style="text-align:left;">
       <p style="margin:4px 0 0; font-size:0.9em;"> <a href="https://ieeexplore.ieee.org/abstract/document/10202907">M. Marathe and L. A. Roald, ``Optimal Energy Rationing for Prepaid Electricity Customers," 2023 IEEE Belgrade PowerTech, Belgrade, Serbia, 2023</a></p>
       <p style="margin:4px 0 0; font-size:0.9em;"> <a href="https://ieeexplore.ieee.org/abstract/document/10738077">M. Marathe and L. A. Roald, ``Energy Management for Prepaid Customers: A Linear Optimization Approach," 2024 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm), Oslo, Norway, 2024</a></p>
@@ -49,7 +49,7 @@ Browse some of our ongoing and past work here (more to come in new areas!)
 <p style="margin:0; font-weight:bold;">Living labs for energy systems</p>
 <div style="display:flex; flex-wrap:wrap; gap:24px; margin:12px 0 32px;">
   <div style="display:flex; flex-direction:row; align-items:center; gap:16px;">
-    <img src="/images/picogrid.png" alt="Picogrid" style="width:120px; height:120px; border-radius:50%; object-fit:cover; flex-shrink:0;">
+    <img src="/images/picogrid.png" alt="Picogrid" style="width:120px; height:120px; border-radius:50%; object-fit:contain; flex-shrink:0;">
     <div style="text-align:left;">
       <p style="margin:0; font-weight:bold;">Picogrid</p>
       <p style="margin:4px 0 0; font-size:0.9em;"> <a href = "https://ieeexplore.ieee.org/document/10362891"> M. Marathe and G. Venkataramanan, ``Picogrid: An experimental platform for prosumer microgrids," 2023 IEEE Energy Conversion Congress and Exposition (ECCE), Nashville, TN, USA, 2023, pp. 718-725</a></p>
@@ -59,7 +59,7 @@ Browse some of our ongoing and past work here (more to come in new areas!)
 </div>
 <div style="display:flex; flex-wrap:wrap; gap:24px; margin:12px 0 32px;">
   <div style="display:flex; flex-direction:row; align-items:center; gap:16px;">
-    <img src="/images/eLFL.jpeg" alt="Electric Little Free Library" style="width:120px; height:120px; border-radius:50%; object-fit:cover; flex-shrink:0;">
+    <img src="/images/eLFL.jpeg" alt="Electric Little Free Library" style="width:120px; height:120px; border-radius:50%; object-fit:contain; flex-shrink:0;">
     <div style="text-align:left;">
       <p style="margin:0; font-weight:bold;">Electric Little Free Library</p>
       <p style="margin:4px 0 0; font-size:0.9em;"> <a href="https://smplabs.wisc.edu/electric-little-free-library/">Technology, Field Deployment, Community Engagement</a></p>
